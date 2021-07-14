@@ -1,0 +1,23 @@
+{
+  "name": "network-maintainer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-Hoskin/Network-Maintainer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuel-Hoskin/Network-Maintainer/issues"
+  },
+  "homepage": "https://github.com/Samuel-Hoskin/Network-Maintainer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "govuk-frontend": "^3.13.0"
+  }
+}
